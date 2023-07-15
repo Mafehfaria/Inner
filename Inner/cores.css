@@ -1,0 +1,17 @@
+div{
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+}
+.verde{
+    background-color: rgb(24, 117, 86);
+}
+.vermelho{
+    background-color: red;
+}
+.amarelo{
+    background-color: yellow;
+}
+.preto{
+    background-color: black;
+}

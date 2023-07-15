@@ -1,0 +1,24 @@
+* {
+margin: 0;
+padding: 0;
+text-align: center;
+font-size: large;
+font-family: Georgia, 'Times New Roman', Times, serif;;
+background-color: rgb(234, 186, 255); 
+}
+body{
+    box-sizing: border-box;
+    height: auto;
+    padding: 130px;    
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;    
+}
+div{
+    width: 50%;
+    margin: auto;
+     background-color: darkmagenta;
+}
